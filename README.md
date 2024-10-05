@@ -26,7 +26,7 @@ The project utilizes a dataset consisting of Age, Gender, Country, State, Sel_em
    * Assess model performance using appropriate metrics (e.g., accuracy, precision, recall, F1-score).
    * Consider cross-validation or other techniques to prevent overfitting.
 
-5. **Deployment (Optional):** 🚀
+5. **Deployment:** 🚀
    * If applicable, deploy the final model to a suitable environment for real-time predictions.
 
 ### **Results** 🎉
